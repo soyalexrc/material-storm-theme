@@ -1,0 +1,21 @@
+{
+  "name": "material-storm-theme",
+  "displayName": "Material Storm Theme",
+  "description": "webstorm material moonlight version for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Storm Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Storm Theme-color-theme.json"
+      }
+    ]
+  }
+}
