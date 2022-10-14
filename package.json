@@ -1,8 +1,12 @@
 {
   "name": "material-storm-theme",
   "displayName": "Material Storm Theme",
-  "description": "webstorm material moonlight version for vscode",
-  "version": "0.0.1",
+  "author": "Alex Rodriguez",
+  "publisher": "AlexRodriguez",
+  "repository": "https://github.com/soyalexrc/material-storm-theme",
+  "icon": "images/material-storm-logo.png",
+  "description": "VSCode Theme based on Jetbrains Webstorm  Moonlight (Material)",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },

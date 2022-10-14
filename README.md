@@ -1,16 +1,41 @@
-# material-storm-theme README
+# Material Storm Theme 
 
-## Working with Markdown
+VSCode Theme based on [Jetbrains Webstorm  Moonlight (Material)](https://plugins.jetbrains.com/plugin/18943-moonlight-dark-theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+We keep making changes constantly to reach **full Workbench theming**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Webstorm way
 
-## For more information
+![](images/webstorm-sample.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Our way
+
+![](images/sample-vscode-extension.png)
+
+## Installing
+
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AlexRodriguez.material-storm-theme)
+
+## What's new?
+
+Click here to go to the [Changelog](https://github.com/soyalexrc/material-storm-theme/blob/main/CHANGELOG.md)
+
+## Customization
+
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here.](https://code.visualstudio.com/api/references/theme-color)
+
+## Custom font
+
+You can easily [customize your settings](https://code.visualstudio.com/docs/getstarted/settings) to use it.
+If you download and install the font in your system, you can add this option to have a custom font:
+
+    {
+        "editor.fontFamily": "YOUR FONT, Menlo, Monaco, Courier New, monospace"
+    }
+
+## Credits
+
+[Jetbrains Webstorm  Moonlight (Material)](https://plugins.jetbrains.com/plugin/18943-moonlight-dark-theme)
+
 
 **Enjoy!**
